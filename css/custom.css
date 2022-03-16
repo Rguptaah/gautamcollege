@@ -586,7 +586,8 @@ textarea:focus::placeholder {
 .navbar-inverse .navbar-nav>.open>a,
 .navbar-inverse .navbar-nav>.open>a:focus,
 .navbar-inverse .navbar-nav>.open>a:hover {
-	background: #4ab866;
+	background: #964545;
+	;
 }
 
 .navbar-form {
@@ -699,18 +700,18 @@ textarea:focus::placeholder {
 }
 
 .banner-outer .slide1 {
-	/* background: url(../images/banner1.jpg) no-repeat center top / cover; */
-	background: url("http://gautamttc.ac.in/assets/img/gallery9.jpg") no-repeat center top / cover;
+	background: url(../images/building.jpeg) no-repeat center top / cover;
+	/* background: url("http://gautamttc.ac.in/assets/img/gallery9.jpg") no-repeat center top / cover; */
 }
 
 .banner-outer .slide2 {
-	/* background: url(../images/banner2.jpg) no-repeat center top / cover; */
-	background: url("http://gautamttc.ac.in/assets/img/gallery11.jpeg") no-repeat center top / cover;
+	background: url(../images/classroom-2.jpeg) no-repeat center top / cover;
+	/* background: url("http://gautamttc.ac.in/assets/img/gallery11.jpeg") no-repeat center top / cover; */
 }
 
 .banner-outer .slide3 {
-	/* background: url(../images/banner3.jpg) no-repeat center top / cover; */
-	background: url("http://gautamttc.ac.in/assets/img/gallery13.jpeg") no-repeat center top / cover;
+	background: url(../images/library-2.jpeg) no-repeat center top / cover;
+	/* background: url("http://gautamttc.ac.in/assets/img/gallery13.jpeg") no-repeat center top / cover; */
 }
 
 .banner-outer .content {

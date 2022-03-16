@@ -8,7 +8,7 @@
             <div class="col-sm-12">
                 <div class="content">
                     <h1>Blog</h1>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                    <p>Home / Blog</p>
                 </div>
             </div>
         </div>

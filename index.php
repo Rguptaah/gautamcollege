@@ -1,4 +1,12 @@
 <?php require_once("temp/header.php") ?>
+<style>
+    .equal-hight:hover {
+        box-shadow: 0px 5px 10px #ff960070;
+        box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+        background-color: white;
+        border-radius: 15px;
+    }
+</style>
 <!-- ==============================================
     ** Banner Carousel **
     =================================================== -->
@@ -40,34 +48,6 @@
     ** About **
     =================================================== -->
 <section class="about">
-    <!-- <div class="container">
-        <ul class="row our-links">
-            <li class="col-sm-4 apply-online clearfix equal-hight">
-                <div class="icon"><img src="images/apply-online-ico.png" class="img-responsive" alt=""></div>
-                <div class="detail">
-                    <h3>Apply Online</h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing...</p>
-                    <a href="apply-online.html" class="more"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                </div>
-            </li>
-            <li class="col-sm-4 prospects clearfix equal-hight">
-                <div class="icon"><img src="images/prospects-ico.png" class="img-responsive" alt=""></div>
-                <div class="detail">
-                    <h3><span>Download</span>Prospects</h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing...</p>
-                    <a href="#" class="more"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                </div>
-            </li>
-            <li class="col-sm-4 certification clearfix equal-hight">
-                <div class="icon"><img src="images/certification-ico.png" class="img-responsive" alt=""></div>
-                <div class="detail">
-                    <h3>Certification</h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing...</p>
-                    <a href="#" class="more"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                </div>
-            </li>
-        </ul>
-    </div> -->
     <div class="container">
         <div class="row">
             <div class="col-sm-7 col-sm-push-5 left-block"> <span class="sm-head">Welcome To</span>
@@ -83,7 +63,7 @@
             </div>
             <div class="col-sm-5 col-sm-pull-7">
                 <div class="video-block">
-                    <div id="thumbnail_container"> <img src="images/gce-about.jpg" id="thumbnail" class="img-responsive" alt="" style="border:5px solid #ff9600;border-top-right-radius:15px;border-bottom-left-radius:15px;"> </div>
+                    <div id="thumbnail_container"> <img src="images/building-2.jpeg" id="thumbnail" class="img-responsive" alt="" style="border:5px solid #ff9600;border-top-right-radius:15px;border-bottom-left-radius:15px;"> </div>
                 </div>
             </div>
         </div>
@@ -227,7 +207,7 @@
                     </div>
                     <a href="#" class="more"><i class="fa fa-caret-right" aria-hidden="true"></i></a>
                 </div>
-                <figure><img src="images/how-study-img1.jpg" class="img-responsive" alt=""></figure>
+                <figure><img src="images/classroom-2.jpeg" class="img-responsive" alt=""></figure>
             </li>
             <li class="col-sm-4">
                 <div class="overly">
@@ -238,18 +218,17 @@
                     </div>
                     <a href="#" class="more"><i class="fa fa-caret-right" aria-hidden="true"></i></a>
                 </div>
-                <figure><img src="images/how-study-img2.jpg" class="img-responsive" alt=""></figure>
+                <figure><img src="images/classroom.jpeg" class="img-responsive" alt=""></figure>
             </li>
             <li class="col-sm-4">
                 <div class="overly">
                     <div class="cnt-block">
-                        <h3> Our Learning
-                            Partners </h3>
-                        <p>We have various partners who help us in deliver quality.</p>
+                        <h3> Our Library</h3>
+                        <p>We have various Reference Books which help in deliver quality.</p>
                     </div>
                     <a href="#" class="more"><i class="fa fa-caret-right" aria-hidden="true"></i></a>
                 </div>
-                <figure><img src="images/how-study-img3.jpg" class="img-responsive" alt=""></figure>
+                <figure><img src="images/library.jpeg" class="img-responsive" alt=""></figure>
             </li>
         </ul>
     </div>
@@ -289,7 +268,7 @@
 <!-- ==============================================
     ** News & Events **
     =================================================== -->
-<section class="news-events padding-lg">
+<!-- <section class="news-events padding-lg">
     <div class="container">
         <h2><span>There are many ways to learn</span>Our Blogs</h2>
         <ul class="row cs-style-3">
@@ -359,7 +338,7 @@
         </ul>
         <div class="know-more-wrapper"> <a href="#blog" class="know-more">More Post <span class="icon-more-icon"></span></a> </div>
     </div>
-</section>
+</section> -->
 
 <!-- ==============================================
     ** Campus Tour **
@@ -368,90 +347,6 @@
     <div class="container">
         <h2><span>Our campus have a lot to offer for our students</span>TAKE A CAMPUS TOUR</h2>
     </div>
-    <!-- <ul class="gallery clearfix">
-        <li>
-            <div class="overlay">
-                <h3>Gallery</h3>
-                <p>Gallery Pics</p>
-                <a class="galleryItem" href="http://gautamttc.ac.in/assets/img/gallery2.jpeg"><span class="icon-enlarge-icon"></span></a>
-                <a href="#gallery" class="more"><span class="icon-gallery-more-arrow"></span></a>
-            </div>
-            <figure><img src="http://gautamttc.ac.in/assets/img/gallery2.jpeg" class="img-responsive" alt=""></figure>
-        </li>
-        <li>
-            <div class="overlay">
-                <h3>Gallery</h3>
-                <p>Gallery Pics</p>
-                <a class="galleryItem" href="http://gautamttc.ac.in/assets/img/gallery3.jpeg"><span class="icon-enlarge-icon"></span></a>
-                <a href="#gallery" class="more"><span class="icon-gallery-more-arrow"></span></a>
-            </div>
-            <figure><img src="http://gautamttc.ac.in/assets/img/gallery3.jpeg" class="img-responsive" alt=""></figure>
-        </li>
-        <li>
-            <div class="overlay">
-                <h3>Gallery</h3>
-                <p>Gallery Pics</p>
-                <a class="galleryItem" href="http://gautamttc.ac.in/assets/img/gallery4.jpeg"><span class="icon-enlarge-icon"></span></a>
-                <a href="#gallery" class="more"><span class="icon-gallery-more-arrow"></span></a>
-            </div>
-            <figure><img src="http://gautamttc.ac.in/assets/img/gallery4.jpeg" class="img-responsive" alt=""></figure>
-        </li>
-        <li>
-            <div class="overlay">
-                <h3>Gallery</h3>
-                <p>Gallery Pics</p>
-                <a class="galleryItem" href="http://gautamttc.ac.in/assets/img/gallery5.jpg"><span class="icon-enlarge-icon"></span></a>
-                <a href="#gallery" class="more"><span class="icon-gallery-more-arrow"></span></a>
-            </div>
-            <figure><img src="http://gautamttc.ac.in/assets/img/gallery5.jpg" class="img-responsive" alt=""></figure>
-        </li>
-        <li>
-            <div class="overlay">
-                <h3>Gallery</h3>
-                <p>Gallery Pics</p>
-                <a class="galleryItem" href="http://gautamttc.ac.in/assets/img/gallery7.jpg"><span class="icon-enlarge-icon"></span></a>
-                <a href="#gallery" class="more"><span class="icon-gallery-more-arrow"></span></a>
-            </div>
-            <figure><img src="http://gautamttc.ac.in/assets/img/gallery7.jpg" class="img-responsive" alt=""></figure>
-        </li> -->
-
-    <!-- <li>
-            <div class="overlay">
-                <h3>Gallery</h3>
-                <p>Gallery Pics</p>
-                <a class="galleryItem" href="http://gautamttc.ac.in/assets/img/gallery8.jpg"><span class="icon-enlarge-icon"></span></a>
-                <a href="#gallery" class="more"><span class="icon-gallery-more-arrow"></span></a>
-            </div>
-            <figure><img src="http://gautamttc.ac.in/assets/img/gallery8.jpg" class="img-responsive" alt=""></figure>
-        </li>
-        <li>
-            <div class="overlay">
-                <h3>Gallery</h3>
-                <p>Gallery Pics</p>
-                <a class="galleryItem" href="http://gautamttc.ac.in/assets/img/gallery9.jpg"><span class="icon-enlarge-icon"></span></a>
-                <a href="#gallery" class="more"><span class="icon-gallery-more-arrow"></span></a>
-            </div>
-            <figure><img src="http://gautamttc.ac.in/assets/img/gallery9.jpg" class="img-responsive" alt=""></figure>
-        </li>
-        <li>
-            <div class="overlay">
-                <h3>Gallery</h3>
-                <p>Gallery Pics</p>
-                <a class="galleryItem" href="http://gautamttc.ac.in/assets/img/gallery10.jpg"><span class="icon-enlarge-icon"></span></a>
-                <a href="#gallery" class="more"><span class="icon-gallery-more-arrow"></span></a>
-            </div>
-            <figure><img src="http://gautamttc.ac.in/assets/img/gallery10.jpg" class="img-responsive" alt=""></figure>
-        </li>
-        <li>
-            <div class="overlay">
-                <h3>Gallery</h3>
-                <p>Gallery Pics</p>
-                <a class="galleryItem" href="http://gautamttc.ac.in/assets/img/gallery11.jpg"><span class="icon-enlarge-icon"></span></a>
-                <a href="#gallery" class="more"><span class="icon-gallery-more-arrow"></span></a>
-            </div>
-            <figure><img src="http://gautamttc.ac.in/assets/img/gallery11.jpg" class="img-responsive" alt=""></figure>
-        </li>
-    </ul> -->
 </section>
 
 <!-- ==============================================
@@ -460,18 +355,12 @@
 <section class="logos">
     <div class="container">
         <ul class="owl-carousel clearfix">
-            <figure><img src="http://gautamttc.ac.in/assets/img/gallery2.jpeg" class="img-responsive" alt=""></figure>
-            <figure><img src="http://gautamttc.ac.in/assets/img/gallery3.jpeg" class="img-responsive" alt=""></figure>
-            <figure><img src="http://gautamttc.ac.in/assets/img/gallery4.jpeg" class="img-responsive" alt=""></figure>
-            <figure><img src="http://gautamttc.ac.in/assets/img/gallery5.jpg" class="img-responsive" alt=""></figure>
-            <figure><img src="http://gautamttc.ac.in/assets/img/gallery6.jpg" class="img-responsive" alt=""></figure>
-            <figure><img src="http://gautamttc.ac.in/assets/img/gallery7.jpg" class="img-responsive" alt=""></figure>
-            <!-- <li><a href="#"><img src="images/logo1.jpg" class="img-responsive" alt=""></a></li>
-            <li><a href="#"><img src="images/logo2.jpg" class="img-responsive" alt=""></a></li>
-            <li><a href="#"><img src="images/logo3.jpg" class="img-responsive" alt=""></a></li>
-            <li><a href="#"><img src="images/logo4.jpg" class="img-responsive" alt=""></a></li>
-            <li><a href="#"><img src="images/logo5.jpg" class="img-responsive" alt=""></a></li>
-            <li><a href="#"><img src="images/logo6.jpg" class="img-responsive" alt=""></a></li> -->
+            <figure><img src="images/building-3.jpeg" class="img-responsive" alt=""></figure>
+            <figure><img src="images/cabins.jpeg" class="img-responsive" alt=""></figure>
+            <figure><img src="images/library-2.jpeg" class="img-responsive" alt=""></figure>
+            <figure><img src="images/classroom.jpeg" class="img-responsive" alt=""></figure>
+            <figure><img src="images/computerlab.jpeg" class="img-responsive" alt=""></figure>
+            <figure><img src="images/conferenceroom.jpeg" class="img-responsive" alt=""></figure>
         </ul>
     </div>
 </section>

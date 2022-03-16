@@ -89,7 +89,7 @@
                             <ul class="dropdown-menu">
                                 <li><a href="about">About Us</a></li>
                                 <li><a href="chairman_message">Chairman's Message</a></li>
-                                <li><a href="#mission_vision">Mission & Visions</a></li>
+                                <li><a href="mission_vision">Mission & Visions</a></li>
                                 <li><a href="#college_at_glance">College At Glance</a></li>
                                 <li><a href="#college_at_glance">Management Committees</a></li>
                                 <li><a href="#college_at_glance">Mandatory Disclosure</a></li>
@@ -103,11 +103,20 @@
                                 <li><a href="#recogninition">Recognition & Approval</a></li>
                             </ul>
                         </li>
-                        <li><a href="#blog">Blog</a></li>
-                        <li><a href="#gallery">Gallery</a></li>
+                        <!-- <li><a href="#blog">Blog</a></li> -->
+                        <li><a href="gallery">Gallery</a></li>
                         <li><a href="#admission">Admission Form</a></li>
-                        <li><a href="#fees">Fees</a></li>
-                        <li><a href="#contact">Contact</a></li>
+                        <li class="dropdown"> <a data-toggle="dropdown" href="#">Student Zone <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#course-listing">Syllabus</a></li>
+                                <li><a href="#calender">Routine</a></li>
+                                <li><a href="#criteria">Course Materials</a></li>
+                                <li><a href="#recogninition">Online Class</a></li>
+                                <li><a href="#recogninition">Placement</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#fees">Payment</a></li>
+                        <li><a href="contact">Contact</a></li>
                     </ul>
                 </div>
             </div>

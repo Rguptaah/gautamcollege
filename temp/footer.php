@@ -63,31 +63,33 @@
                                 <h3>Gallery</h3>
                                 <ul class="clearfix">
                                     <li><a href="#">
-                                            <figure><img src="images/insta-img1.jpg" class="img-responsive" alt="">
+                                            <figure><img src="images/buiding-1.jpeg" class="img-responsive" alt="">
                                             </figure>
                                         </a></li>
                                     <li><a href="#">
-                                            <figure><img src="images/insta-img2.jpg" class="img-responsive" alt="">
+                                            <figure><img src="images/library.jpeg" class="img-responsive" alt="">
                                             </figure>
                                         </a></li>
                                     <li><a href="#">
-                                            <figure><img src="images/insta-img3.jpg" class="img-responsive" alt="">
+                                            <figure><img src="images/classroom.jpeg" class="img-responsive" alt="">
                                             </figure>
                                         </a></li>
                                     <li><a href="#">
-                                            <figure><img src="images/insta-img4.jpg" class="img-responsive" alt="">
+                                            <figure><img src="images/cabins.jpeg" class="img-responsive" alt="">
                                             </figure>
                                         </a></li>
                                     <li><a href="#">
-                                            <figure><img src="images/insta-img5.jpg" class="img-responsive" alt="">
+                                            <figure><img src="images/conferenceroom.jpeg" class="img-responsive" alt="">
                                             </figure>
                                         </a></li>
                                     <li><a href="#">
-                                            <figure><img src="images/insta-img6.jpg" class="img-responsive" alt="">
+                                            <figure><img src="images/classroom-2.jpeg" class="img-responsive" alt="">
                                             </figure>
                                         </a></li>
                                 </ul>
                             </div>
+                            <div id="sfcjh8mh8grufs1ex3472wu1mye45qx7r5j"></div>
+                            <script type="text/javascript" src="https://counter4.stat.ovh/private/counter.js?c=jh8mh8grufs1ex3472wu1mye45qx7r5j&down=async" async></script><noscript><a href="#" title="free counter"><img src="https://counter4.stat.ovh/private/freecounterstat.php?c=jh8mh8grufs1ex3472wu1mye45qx7r5j" border="0" title="free counter" alt="free counter"></a></noscript>
                         </div>
                     </div>
                 </div>

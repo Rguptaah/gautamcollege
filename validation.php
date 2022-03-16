@@ -7,8 +7,8 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="content">
-                    <h2>College At Glance</h2>
-                    <p>Home / College At Glance</p>
+                    <h2>Validation</h2>
+                    <p>Home / Validation</p>
                 </div>
             </div>
         </div>
